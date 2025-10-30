@@ -54,10 +54,13 @@ color:rgb(255, 0, 123);
 a:visited {
 color:rgb(235, 8, 235);
 }
-.design-selection :link{
+.design-selection li {
   border: solid 3px;
+margin-top: 10px;
+margin-right: 300px;
 background-color: rgb(255, 255, 255);
+list-style-type: none;
 }
 design-selection {
-  margin-top: 30 px;
-}
+  padding-top: 30 px;
+} 
