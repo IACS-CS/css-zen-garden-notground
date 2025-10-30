@@ -40,10 +40,24 @@ h6 {
 /* Page wrapper */
 .page-wrapper {
   box-sizing: border-box;
-  background: rgba(255, 255, 255, 0.9);
-  border: 1px solid #ccc;
+  background: rgba(255, 194, 224, 0.9);
+  border: 1px solid #f54689ccc;
   padding: 1em;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   max-width: 960px;
   margin: 0 auto;
+}
+
+a:link {
+color:rgb(255, 0, 123);
+}
+a:visited {
+color:rgb(235, 8, 235);
+}
+.design-selection :link{
+  border: solid 3px;
+background-color: rgb(255, 255, 255);
+}
+design-selection {
+  margin-top: 30 px;
 }
