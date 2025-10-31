@@ -32,7 +32,12 @@ h6 {
   /* Header font */
   font-family: "Dancing Script", cursive;
 }
-
+.intro {
+Background-image: url(Project.png);
+background-size: 25cap;
+background-repeat: no-repeat;
+background-position: relative;
+}
 /* Background */
 #css-zen-garden {
   background: linear-gradient(45deg, #f3f3f3 0%, #c8c8c8 100%);
@@ -40,7 +45,7 @@ h6 {
 /* Page wrapper */
 .page-wrapper {
   box-sizing: border-box;
-  background: rgba(255, 194, 224, 0.9);
+  background: rgba(247, 174, 210, 0.9);
   border: 1px solid #f54689ccc;
   padding: 1em;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
