@@ -69,3 +69,27 @@ list-style-type: none;
 design-selection {
   padding-top: 30 px;
 } 
+a:hover {
+color:rgb(30, 242, 118);
+}
+#zen-supporting {
+Background-image: url(coco3.PNG);
+background-size: 40cap;
+background-repeat: no-repeat;
+background-position: relative;
+}
+#zen-requirements {
+Background-image: url(coco2.PNG);
+background-size: 35cap;
+background-repeat: no-repeat;
+background-position: relative;
+}
+.sidebar{
+  color:blue;
+  position: absolute;
+  top: 5px;
+  left: 1px;
+}
+.main {
+left:50px;
+}
