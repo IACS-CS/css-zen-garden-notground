@@ -33,14 +33,11 @@ h6 {
   font-family: "Dancing Script", cursive;
 }
 .intro {
-Background-image: url(Project.png);
-background-size: 25cap;
-background-repeat: no-repeat;
-background-position: relative;
+color:rgb(255, 0, 0);
 }
 /* Background */
 #css-zen-garden {
-  background: linear-gradient(45deg, #ff01ea 0%, #ffea00 100%);
+  background: linear-gradient(45deg, #ffcc01 0%, rgb(0, 255, 119),cyan, rgb(26, 26, 255), #d41af1 80%);
 }
 /* Page wrapper */
 .page-wrapper {
@@ -53,9 +50,6 @@ background-position: relative;
   margin-left: 310px;
 }
 
-head{ 
-color:red;
-}
 
 a:link {
 color:rgb(255, 0, 123);
