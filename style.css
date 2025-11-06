@@ -1,6 +1,6 @@
 /********************************** 
-* Design by:  [your name]
-* Design name:  [your design name]
+* Design by:  [ Sky Perez]
+* Design name:  [  My Cat Coco]
 * 
 * License: [license name - e.g. MIT if you want to let others
 * use the design with attribution, or All Rights Reserved if you
@@ -91,14 +91,15 @@ background-position: relative;
   left: 10px;
 height: 100dvh;
 overflow:scroll;
-scrollbar-gutter: left;
 }
 
-.sidebar {
+h2 {
   background-image: url(Project2.png);
    background-size:300px;
+   height: 600px;
    background-repeat: no-repeat;
-   background-position:fixed;
-   background-position-x: 30px;
- 
+   background-position-x: -60px;
+   background-position-y: 50px;
+  position:fixed;
+left: 1300px; 
 }
